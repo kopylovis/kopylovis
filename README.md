@@ -11,10 +11,10 @@ end to end: from architecture to the stores. 10+ years on iOS, Android and KMP.
   <tr>
     <td width="88" align="center" valign="middle"><a href="https://monoroh.com/tossling"><img src="assets/tossling.png" width="72" alt="Tossling"></a></td>
     <td valign="top"><p></p><p>
-      <b><a href="https://github.com/Tossling">Tossling</a></b> · macOS, Android, self-hosted server<br>
-      One end-to-end encrypted clipboard for your Macs and Android phone, through your own server. Text, images and
+      <b><a href="https://github.com/Tossling">Tossling</a></b> · macOS, Windows, Linux, Android, self-hosted server<br>
+      One end-to-end encrypted clipboard for your computers and phones, through your own server. Text, images and
       files up to 500 MB. Open source, GPL-3.0.<br>
-      <sub><a href="https://github.com/Tossling/tossling-desktop">Desktop</a> · <a href="https://github.com/Tossling/tossling-mobile">Android</a> · <a href="https://github.com/Tossling/tossling-server">Server</a> · <a href="https://monoroh.com/tossling">Site</a></sub></p><a name="tossling-end"></a>
+      <sub><a href="https://github.com/Tossling/tossling-desktop">Desktop</a> · <a href="https://github.com/Tossling/tossling-mobile">Android and iOS</a> · <a href="https://github.com/Tossling/tossling-server">Server</a> · <a href="https://monoroh.com/tossling">Site</a></sub></p><a name="tossling-end"></a>
     </td>
   </tr>
   <tr></tr>
