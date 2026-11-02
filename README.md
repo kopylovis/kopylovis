@@ -41,4 +41,4 @@ end to end: from architecture to the stores. 10+ years on iOS, Android and KMP.
 
 #### Stack
 
-Kotlin Multiplatform · Compose Multiplatform · Android (Kotlin, Jetpack Compose) · iOS (Swift, SwiftUI) · Flutter
+Kotlin Multiplatform · Compose Multiplatform · Android (Kotlin, Jetpack Compose) · iOS (Swift, SwiftUI) · Flutter · Go
