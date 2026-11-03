@@ -37,6 +37,17 @@ end to end: from architecture to the stores. 10+ years on iOS, Android and KMP.
       <sub><a href="https://rubygems.org/gems/fastlane-plugin-upload_to_ru_store">RubyGems</a></sub></p><a name="upload-to-ru-store-end"></a>
     </td>
   </tr>
+  <tr></tr>
+  <tr>
+    <td width="88" align="center" valign="middle"><a href="https://github.com/kopylovis/claudemeister"><img src="assets/claudemeister.png" width="72" alt="claudemeister"></a></td>
+    <td valign="top"><p></p><p>
+      <b><a href="https://github.com/kopylovis/claudemeister">claudemeister</a></b> · macOS, Claude Code<br>
+      A toolkit around Claude Code: start it in a project with a session picker, restart or slim a session from
+      inside Claude, send single sessions through your own proxy server, guard secrets, get notified when Claude
+      waits, plus an MCP server with past-session search, a backlog and parallel tasks.<br>
+      <sub><a href="https://github.com/kopylovis/claudemeister">GitHub</a> · <code>brew install kopylovis/tap/claudemeister</code></sub></p><a name="claudemeister-end"></a>
+    </td>
+  </tr>
 </table>
 
 #### Stack
