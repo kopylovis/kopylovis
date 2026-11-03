@@ -48,6 +48,16 @@ end to end: from architecture to the stores. 10+ years on iOS, Android and KMP.
       <sub><a href="https://github.com/kopylovis/claudemeister">GitHub</a> · <code>brew install kopylovis/tap/claudemeister</code></sub></p><a name="claudemeister-end"></a>
     </td>
   </tr>
+  <tr></tr>
+  <tr>
+    <td width="88" align="center" valign="middle"><a href="https://github.com/kopylovis/promptsill"><img src="assets/promptsill.png" width="72" alt="promptsill"></a></td>
+    <td valign="top"><p></p><p>
+      <b><a href="https://github.com/kopylovis/promptsill">promptsill</a></b> · Claude Code status line, macOS and Linux<br>
+      A status line that knows about your dev machine, not just the session: limit pace, context, cache timer,
+      git, dev servers, busy ports, memory, Gradle daemons and simulators. Open source, MIT.<br>
+      <sub><a href="https://github.com/kopylovis/promptsill">GitHub</a> · <code>brew install kopylovis/tap/promptsill</code></sub></p><a name="promptsill-end"></a>
+    </td>
+  </tr>
 </table>
 
 #### Stack
