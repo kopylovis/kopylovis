@@ -21,10 +21,10 @@ end to end: from architecture to the stores. 10+ years on iOS, Android and KMP.
   <tr>
     <td width="88" align="center" valign="middle"><a href="https://monoroh.com/authmeister"><img src="assets/authmeister.png" width="72" alt="Authmeister"></a></td>
     <td valign="top"><p></p><p>
-      <b><a href="https://monoroh.com/authmeister">Authmeister</a></b> · iOS, Android<br>
-      A TOTP and HOTP authenticator with one-tap migration from Google Authenticator, local-only storage and
-      encrypted backups.<br>
-      <sub><a href="https://apps.apple.com/app/id6742833866">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.kopylovis.authmeister">Google Play</a> · <a href="https://www.rustore.ru/catalog/app/com.kopylovis.authmeister">RuStore</a></sub></p><a name="authmeister-end"></a>
+      <b><a href="https://github.com/Authmeister">Authmeister</a></b> · iOS, Android, macOS, Apple Watch, Wear OS<br>
+      Two-factor codes and passwords on your phone, watch and Mac, synced through your own iCloud Drive, Google
+      Drive, Dropbox or OneDrive and encrypted with your backup password. No server of its own.<br>
+      <sub><a href="https://github.com/Authmeister/authmeister">GitHub</a> · <a href="https://apps.apple.com/app/id6742833866">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.kopylovis.authmeister">Google Play</a> · <a href="https://www.rustore.ru/catalog/app/com.kopylovis.authmeister">RuStore</a> · <a href="https://github.com/Authmeister/authmeister/releases/latest">Mac and APK</a> · <a href="https://monoroh.com/authmeister">Site</a></sub></p><a name="authmeister-end"></a>
     </td>
   </tr>
   <tr></tr>
