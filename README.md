@@ -39,13 +39,14 @@ end to end: from architecture to the stores. 10+ years on iOS, Android and KMP.
   </tr>
   <tr></tr>
   <tr>
-    <td width="88" align="center" valign="middle"><a href="https://github.com/kopylovis/claudemeister"><img src="assets/claudemeister.png" width="72" alt="claudemeister"></a></td>
+    <td width="88" align="center" valign="middle"><a href="https://github.com/kopylovis/agentmeister"><img src="assets/agentmeister.png" width="72" alt="agentmeister"></a></td>
     <td valign="top"><p></p><p>
-      <b><a href="https://github.com/kopylovis/claudemeister">claudemeister</a></b> · macOS, Claude Code<br>
-      A toolkit around Claude Code: start it in a project with a session picker, restart or slim a session from
-      inside Claude, send single sessions through your own proxy server, guard secrets, get notified when Claude
-      waits, plus an MCP server with past-session search, a backlog and parallel tasks.<br>
-      <sub><a href="https://github.com/kopylovis/claudemeister">GitHub</a> · <code>brew install kopylovis/tap/claudemeister</code></sub></p><a name="claudemeister-end"></a>
+      <b><a href="https://github.com/kopylovis/agentmeister">agentmeister</a></b> · macOS, Claude Code and Codex<br>
+      Starts Claude Code or Codex in a project and resumes saved sessions. Restart or slim a session from inside
+      it, send single sessions through your own proxy server, review risky commands before they run and get
+      notified when Claude waits. Both agents get writing rules without AI tells, a project backlog and an MCP
+      server with past-session search and parallel tasks.<br>
+      <sub><a href="https://github.com/kopylovis/agentmeister">GitHub</a> · <code>brew install kopylovis/tap/agentmeister</code></sub></p><a name="agentmeister-end"></a>
     </td>
   </tr>
   <tr></tr>
